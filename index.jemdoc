@@ -1,0 +1,48 @@
+# jemdoc: menu{MENU}{index.html}
+=Yuchen Lou
+
+Ph.D candidate 2021-2026 (expected)
+
+[https://www.mccormick.northwestern.edu/industrial/ Department of Industrial Engineering and Management Sciences]
+
+[https://www.northwestern.edu/ Northwestern University]
+== Address
+
+Email: [mailto: yuchenlou2026@u.northwestern.edu]
+
+GitHub: [https://github.com/YuchenLou YuchenLou]
+
+== About
+
+Hi! I am Yuchen Lou (楼 昱辰), an incoming Ph.D candidate in IEMS at Northwestern University from 2021 to 2026 (expected). My current research interests are optimization theories, algorithms, and their applications in machine learning & signal processing. But indeed, I am interested in any possible connection between optimization and any other fields or practical problems.
+
+Before I come to Northwestern, I will complete my Bachelor's degree in Mathematics from [https://www.hku.hk/ The University of Hong Kong], where I was fortunate enough to be supervised by [https://hkumath.hku.hk/~xmyuan/ Prof. Xiaoming Yuan] and [https://hkumath.hku.hk/~zhengqu/ Prof. Zheng Qu]. I also spent a year working with [https://www.math.ucla.edu/~wotaoyin/ Prof. Wotao Yin], [http://danielmckenzie.github.io/ Dr. Daniel McKenzie], and [https://www.math.ucla.edu/~hqcai/ Dr. HanQin Cai] from the Department of Mathematics at [https://www.ucla.edu/ UCLA].
+
+You can refer to my CV for more details.
+
+== Research
+
+=== Working Ideas
+
+- Blackbox optimizaton and zeroth-order optimization methods
+- Adversarial attack
+- ADMM-like algorithms and application to learning
+
+=== Paper(s)
+
+Cai H Q, *Lou Y*, McKenzie D, et al. A Zeroth-Order Block Coordinate Descent Algorithm for Huge-Scale Black-Box Optimization[J]. arXiv preprint [https://arxiv.org/abs/2102.10707 arXiv:2102.10707], 2021.
+
+=== Talks
+
+. Research Colloquium for Science Undergraduate Students, Apr. 2021, HKU Science
+. Research Colloquium of HKU Science Undergraduate Research, Nov. 2020, HKU
+. Zeroth Order Online Meeting, Jul. 2020, UCLA & Alibaba DAMO Academy
+
+=== Selected Courses
+
+- @HKU: Intro to optimization; Topics in optimization and math programming; functional analysis; real analysis; PDE; stochastic process
+- @UC Berkeley: linear programming; grad-level numerical PDE; grad-level optimization
+
+== Activities
+
+I am a rookie rythimic game and STG player.
